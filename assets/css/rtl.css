@@ -1,0 +1,494 @@
+@font-face {
+    font-family: iransans;
+    src: url('../fonts/IRANSansWeb.woff2');
+}
+body{
+	direction:rtl;
+	text-align:right;
+	font-family: iransans;
+}
+.mein-navbar .navbar-nav .buy-tokens .nav-link i{
+	margin-left:auto;
+	margin-right:7px
+}
+.valus-area .values-and-sell ul li.bitcoin-number{
+	text-align:right;
+	direction:rtl
+}
+.buy-now-area .ico-wrapper .ico-text h4{
+	text-align:right;
+	direction:rtl
+}
+.roadmap-two .timeline ol li p span{
+	direction:rtl
+}
+.structure-area-two .values-and-sell ul li.bitcoin-number{
+	text-align:right;
+	direction:rtl
+}
+.buy-now-area .ico-wrapper ul li.bitcoin-number{
+	text-align:right;
+	direction:rtl
+}
+.blog-details .article-content .entry-meta li:last-child{
+	margin-right:0;
+	margin-left:0
+}
+.blog-details .article-content .entry-meta li i{
+	margin-right:auto;
+	margin-left:3px
+}
+.blog-details .article-content .entry-meta li{
+	margin-right:auto;
+	margin-left:15px
+}
+blockquote cite{
+	padding-left:auto;
+	padding-right:17px
+}
+blockquote cite::before{
+	left:0;
+	right:0
+}
+.navbar-brand{
+	margin-right:0
+}
+.ml-auto,.mx-auto{
+	margin-right:auto!important;
+	margin-left:0!important
+}
+.mein-navbar .navbar-nav .nav-item .nav-link{
+	margin-right:30px;
+	margin-left:0
+}
+.banner-area .banner-img{
+	left:0;
+	right:auto
+}
+.banner-area .dollar{
+	left:330px;
+	right:auto
+}
+.banner-button .video{
+	margin-right:50px;
+	margin-left:0
+}
+.banner-area .video-content-wrapper p{
+	left:-135px;
+	right:auto
+}
+.default-btn i{
+	margin-right:7px;
+	margin-left:0
+}
+.ico-area{
+}
+.ico-area .ico-wrapper.ico-wrapper-timer{
+}
+.ico-slider-wrapper{
+}
+.ico-area .ico-wrapper .ico-text ul li{
+}
+.ico-area .ico-wrapper .ico-text ul li:last-child{
+}
+.default-btn-border i{
+	margin-right:7px;
+	margin-left:0
+}
+.ml-3,.mx-3{
+	margin-right:1rem!important;
+	margin-left:0
+}
+.blockchain-area ul li{
+	padding-right:30px;
+	padding-left:0
+}
+.blockchain-area ul i{
+	right:0;
+	left:auto;
+	margin-left:10px;
+	margin-right:0
+}
+.blockchain-area .blockchain-button a{
+	padding-right:74px;
+	padding-left:10px
+}
+.blockchain-area .blockchain-button a i{
+	right:27px;
+	left:auto
+}
+.single-rating ul{
+	right:130px;
+	left:auto
+}
+.single-rating h3{
+	right:130px;
+	left:auto
+}
+.roadmap .timeline ol{
+	direction:ltr
+}
+.distribution-area .single-distribution span::before{
+	right:-54px;
+	left:auto
+}
+.faq-accordion .accordion .accordion-item .accordion-title{
+	padding:12px 15px 12px 35px
+}
+.faq-accordion .accordion .accordion-item .accordion-title i{
+	left:15px;
+	right:auto
+}
+.structure-area .single-structure .structure-content{
+	right:105px;
+	left:auto
+}
+.valus-area{
+	direction:ltr
+}
+.valus-area .section-title{
+	margin-left:auto
+}
+.list-unstyled{
+	padding-right:0
+}
+.single-widget.single-widget-align{
+	margin-right:90px;
+	margin-left:0
+}
+.widget_search form .search-submit{
+	left:0;
+	right:auto;
+	border-radius:4px 0 0 4px
+}
+.footer-bottom .single-widgets ul.social-links{
+	text-align:left
+}
+#toTop{
+	left:30px;
+	right:auto
+}
+.banner-area-two .banner-text ul li .number-bg{
+	right:-6px;
+	left:auto
+}
+.banner-area-two .banner-text ul li .banner-number{
+	margin-left:20px;
+	margin-right:0
+}
+.default-btn-border-two.its-work{
+	margin-right:15px;
+	margin-left:0
+}
+.what-is-nikata-area ul li{
+	padding-right:30px;
+	padding-left:0
+}
+.what-is-nikata-area ul i{
+	margin-left:10px;
+	margin-right:0;
+	right:0;
+	left:auto
+}
+.what-is-nikata-area .video-content-wrapper p{
+	right:86px;
+	left:auto
+}
+.about-area .section-title-two{
+	margin-right:50px;
+	margin-left:0
+}
+.about-area .niktacacoin-button{
+	margin-right:50px;
+	margin-left:0
+}
+.about-area .section-title-two span{
+	right:65px;
+	left:auto
+}
+.buy-now-area .ico-wrapper.ico-wrapper-timer{
+	direction:ltr
+}
+.benefit-two-area .single-benefits h3{
+	padding-right:30px;
+	padding-left:0
+}
+.benefit-two-area .single-benefits i{
+	right:30px;
+	left:auto
+}
+.text-left{
+	text-align:right!important
+}
+.blockchain-area-two ul li{
+	padding-right:30px;
+	padding-left:0
+}
+.blockchain-area-two ul i{
+	margin-left:10px;
+	margin-right:0;
+	right:0;
+	left:auto
+}
+.distribution-area-two .token-list ul li{
+	margin-right:44px;
+	margin-left:0
+}
+.distribution-area-two .token-list ul li:before{
+	right:-44px;
+	left:auto
+}
+.roadmap-two .timeline ol{
+	direction:ltr
+}
+.structure-area-two .values-and-sell{
+	direction:ltr
+}
+.team-area-two .join-now{
+}
+.faq-area-two .faq-accordion .accordion .accordion-item .accordion-title i{
+	right:0;
+	left:auto
+}
+.faq-area-two .faq-accordion .accordion .accordion-item .accordion-content{
+	padding:0 45px 0 0
+}
+.team-member-area .section-title-two{
+}
+.team-member-area .section-title-two span{
+	right:289px;
+	left:auto;
+	margin-right:108px;
+	margin-left:0
+}
+.team-member-area{
+	overflow:hidden
+}
+.team-member-area .team-member-wrapper .single-team{
+	text-align:right
+}
+.contact-area-two .get-in-touch ul li{
+	padding-right:40px;
+	padding-left:0
+}
+.contact-area-two .get-in-touch ul li i{
+	right:0;
+	left:auto
+}
+.text-danger{
+	left:15px;
+	right:auto
+}
+.sidebar-modal-area .modal.right.fade.show .modal-dialog{
+	left:0;
+	right:auto
+}
+.sidebar-modal-area .modal.right.fade .modal-dialog{
+	left:-320px;
+	right:auto
+}
+.sidebar-modal-area .modal-header .close{
+	position:absolute;
+	left:20px
+}
+.sidebar-modal-area .modal.right .modal-body .sidebar-modal-widget ul.contact-info li{
+	padding-right:45px;
+	padding-left:0
+}
+.sidebar-modal-area .modal.right .modal-body .sidebar-modal-widget ul.contact-info li i{
+	right:0;
+	left:auto
+}
+.widget-area .widget_search form .search-submit{
+	left:0;
+	right:auto;
+	border-radius:4px 0 0 4px
+}
+.widget-area .widget ul li{
+	padding-right:17px;
+	padding-left:0
+}
+.widget-area .widget ul li::before{
+	right:0;
+	left:auto
+}
+blockquote{
+	padding:30px 70px 30px 30px!important
+}
+blockquote::before{
+	right:30px;
+	left:auto
+}
+.blog-details .article-content .category li{
+	margin-left:4px;
+	margin-right:0
+}
+.comments-area .comment-body{
+	margin-right:65px;
+	margin-left:0
+}
+.comments-area .comment-author .avatar{
+	right:-65px;
+	left:auto
+}
+.comments-area .children{
+	margin-right:65px;
+	margin-left:0
+}
+.comments-area .comment-respond .comment-form-cookies-consent{
+	padding-right:20px;
+	padding-left:0
+}
+.comments-area .comment-respond .comment-form-cookies-consent input{
+	right:0;
+	left:auto
+}
+.navbar-nav{
+	padding-right:0
+}
+.about-area .single-work .work-content.work-contents{
+	right:-19px;
+	left:auto
+}
+.about-area .single-work .about-icon.about-icon-center{
+	right:-19px;
+	left:auto
+}
+.buy-now-area .ico-wrapper .ico-text ul li span{
+	font-size:33px;
+	line-height:78px
+}
+@media only screen and (max-width:767px){
+	.ico-area{
+		margin-right:0
+	}
+	.buy-now-area .ico-wrapper .ico-text h4{
+		text-align:center;
+		direction:rtl
+	}
+	.ico-slider-wrapper{
+		right:0
+	}
+	.benefit-button .show-me{
+		margin-right:0!important;
+		margin-left:0!important
+	}
+	.ml-3,.mx-3{
+		margin-right:0!important
+	}
+	.distribution-area .single-distribution{
+		margin-right:55px;
+		margin-left:0
+	}
+	.single-widget.single-widget-align{
+		margin-right:0
+	}
+	.default-btn-border-two.its-work{
+		margin-right:0
+	}
+	.mein-navbar .navbar-nav .nav-item .nav-link{
+		margin-right:0
+	}
+	.about-area .section-title-two{
+		margin-right:0;
+		text-align:right
+	}
+	.about-area .niktacacoin-button{
+		margin-right:0;
+		text-align:right
+	}
+	.benefit-two-area .section-title-two{
+		text-align:right
+	}
+	.comments-area .comment-body{
+		margin-right:0
+	}
+	.comments-area .comment-author .avatar{
+		right:0
+	}
+	.about-area .single-work .work-content.work-contents{
+		right:0
+	}
+	.about-area .single-work .about-icon.about-icon-center{
+		right:0
+	}
+}
+@media only screen and (min-width:576px) and (max-width:767px){
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+	.mein-navbar .navbar-nav .nav-item .nav-link{
+		margin-right:0
+	}
+	.ico-area{
+		margin-right:0
+	}
+	.ico-slider-wrapper{
+		right:0
+	}
+	.benefit-button .show-me{
+		margin-right:0!important;
+		margin-left:0!important
+	}
+	.distribution-area .single-distribution{
+		margin-right:55px;
+		margin-left:0
+	}
+	.single-widget.single-widget-align{
+		margin-right:0
+	}
+	.ico-area .ico-wrapper.ico-wrapper-timer{
+	}
+	.offset-md-3{
+		margin-right:25%
+	}
+	.about-area .section-title-two{
+		margin-right:0;
+		text-align:right
+	}
+	.about-area .niktacacoin-button{
+		margin-right:0;
+		text-align:right
+	}
+	.benefit-two-area .section-title-two{
+	}
+	.mein-navbar .navbar-nav .nav-item.buy-token{
+		margin-right:-29px;
+		margin-left:0
+	}
+	.buy-now-area .ico-wrapper.ico-wrapper-timer{
+	}
+	.about-area .single-work .work-content.work-contents{
+		right:0
+	}
+	.about-area .single-work .about-icon.about-icon-center{
+		right:0
+	}
+}
+@media only screen and (min-width:992px) and (max-width:1199px){
+	.ico-slider-wrapper{
+		right:0
+	}
+	.ico-area{
+		margin-right:0
+	}
+	.rating-area .single-rating h3{
+		left:0
+	}
+	.rating-area .single-rating ul{
+		left:0
+	}
+	.banner-area .dollar{
+		left:270px
+	}
+	.rating-two-area .single-rating h3{
+		left:0
+	}
+	.rating-two-area .single-rating ul{
+		left:0
+	}
+}
+@media only screen and (min-width:1824px){
+	.banner-area .dollar{
+		left:415px
+	}
+}
