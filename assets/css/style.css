@@ -23,7 +23,8 @@ a:hover{
 }
 p{
 	color:#b1a3eb;
-	margin-bottom:10px
+	margin-bottom:10px;
+	font-family:iransans;
 }
 p:last-child{
 	margin-bottom:0
@@ -356,7 +357,7 @@ img{
 .mein-navbar .navbar-brand{
 	color:#fff;
 	text-transform:capitalize;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	font-weight:700;
 	font-size:25px
 }
@@ -456,7 +457,7 @@ img{
 	color:#ffc107;
 	font-size:43px;
 	font-weight:700;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background:-webkit-gradient(linear,left top,left bottom,from(#ffc107),to(#ffc107));
 	background:linear-gradient(#ffc107,#ffc107);
 	-webkit-background-clip:text;
@@ -645,7 +646,7 @@ img{
 	display:block;
 	font-size:40px;
 	font-weight:700;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background-color:rgba(22,2,61,.3);
 	line-height:1.8;
 	width:78px;
@@ -729,7 +730,7 @@ img{
 }
 .benefit-area .section-title h3{
 	color:#15b053;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background:-webkit-gradient(linear,left top,left bottom,from(#18bb72),to(#119c40));
 	background:linear-gradient(#18bb72,#119c40);
 	-webkit-background-clip:text;
@@ -784,7 +785,7 @@ img{
 }
 .benefit-wrapper .single-benefit i{
 	color:#15b053;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background:-webkit-gradient(linear,left top,left bottom,from(#18bb72),to(#119c40));
 	background:linear-gradient(#18bb72,#119c40);
 	-webkit-background-clip:text;
@@ -1186,7 +1187,7 @@ img{
 }
 .team-area .section-title h3{
 	color:#15b053;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background:-webkit-gradient(linear,left top,left bottom,from(#18bb72),to(#119c40));
 	background:linear-gradient(#18bb72,#119c40);
 	-webkit-background-clip:text;
@@ -1517,7 +1518,7 @@ img{
 	font-size:14px;
 	color:#8d8c8c;
 	text-transform:capitalize;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans;
 }
 .single-blog .blog-text{
 	padding:20px;
@@ -1769,10 +1770,10 @@ img{
 }
 .home-two-body{
 	background-image:url(../img/home-two/body-bg.jpg);
-	background-color:#000;
+	background-color:#f1fffe;
 	width:100%;
 	height:100%;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background-repeat:no-repeat;
 	background-size:cover;
 	background-position:center center
@@ -1810,7 +1811,7 @@ img{
 	background-image:linear-gradient(#1cd473,#16b545);
 	-webkit-background-clip:text;
 	-webkit-text-fill-color:transparent;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	font-size:16px
 }
 .section-title-two span{
@@ -1823,7 +1824,7 @@ img{
 }
 .section-title-two h2{
 	color:#fff;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	font-size:31px;
 	font-weight:400;
 	line-height:1.4;
@@ -1834,7 +1835,7 @@ img{
 	font-size:16px
 }
 .mein-navbar .navbar-brand{
-	font-family:vazir-fd,sans-serif
+	font-family:iransans;
 }
 .mein-navbar .navbar-nav .buy-token .nav-link{
 	border:none;
@@ -1880,14 +1881,14 @@ img{
 }
 .banner-area-two .banner-text span{
 	color:#15b053;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans;
 }
 .banner-area-two .banner-text h2{
 	font-size:50px;
 	color:#fff;
 	margin-bottom:20px;
 	line-height:1.4;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans;
 }
 .banner-area-two .banner-text p{
 	margin-bottom:35px;
@@ -2169,7 +2170,7 @@ img{
 	color:#9a8ef0;
 	font-weight:400;
 	margin-bottom:10px;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans
 }
 .buy-now-area .ico-wrapper .ico-text h4{
 	font-size:18px;
@@ -2195,7 +2196,7 @@ img{
 	display:block;
 	font-size:40px;
 	font-weight:700;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	background-color:#4e3179;
 	line-height:1.8;
 	width:78px;
@@ -2204,7 +2205,7 @@ img{
 	border-radius:4px;
 	color:#fff;
 	margin-bottom:5px;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans
 }
 .buy-now-area .ico-wrapper .tril-wrapper h4{
 	color:#fff;
@@ -2307,7 +2308,7 @@ img{
 .benefit-two-area .single-benefits h3{
 	font-size:15px;
 	color:#fff;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	position:relative;
 	padding-left:30px;
 	line-height:1.5
@@ -2369,12 +2370,11 @@ img{
 	background:-webkit-gradient(linear,left top,left bottom,from(#3c285a),to(#3c285a));
 	background:linear-gradient(#3c285a,#3c285a);
 	color:#1ce77d;
-	font-family:vazir-fd,sans-serif
-}
+font-family:iransans;}
 .rating-two-area .single-rating h3{
 	color:#fff;
 	font-weight:400;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	font-size:20px
 }
 .rating-two-area .single-rating ul li i{
@@ -2383,7 +2383,7 @@ img{
 	background:linear-gradient(#f38153,#f96d69);
 	-webkit-background-clip:text;
 	-webkit-text-fill-color:transparent;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans
 }
 .distribution-area-two{
 	overflow:hidden;
@@ -2412,7 +2412,7 @@ img{
 .distribution-area-two .token-list h3{
 	font-size:25px;
 	color:#fff;
-	font-family:vazir-fd,sans-serif;
+	font-family:iransans;
 	margin-bottom:30px;
 	font-weight:400
 }
@@ -2548,7 +2548,7 @@ img{
 }
 .roadmap-two .timeline ol li p span{
 	font-size:17px;
-	font-family:vazir-fd,sans-serif
+	font-family:iransans;
 }
 .roadmap-two .timeline ol li p .span-tags{
 	font-size:14px!important;
@@ -2639,7 +2639,7 @@ img{
 	font-size:16px;
 	color:#fff;
 	font-weight:400;
-	font-family:vazir-fd,sans-serif;
+	font-family:yekan;
 	margin-bottom:5px
 }
 .structure-area-two .single-structure p{
@@ -2652,7 +2652,7 @@ img{
 }
 .structure-area-two .values-and-sell h3{
 	color:#fff;
-	font-family:vazir-fd,sans-serif;
+	font-family:yekan;
 	font-weight:400;
 	font-size:18px;
 	margin-bottom:30px
@@ -2686,7 +2686,7 @@ img{
 }
 .structure-area-two .values-and-sell .we-accept h3{
 	color:#fff;
-	font-family:vazir-fd,sans-serif;
+	font-family:yekan;
 	font-weight:400;
 	font-size:16px;
 	text-transform:capitalize;
@@ -2740,14 +2740,14 @@ img{
 	border:none
 }
 .team-area-two .single-team h3{
-	font-family:vazir-fd,sans-serif;
+	font-family:yekan;
 	color:#fcfcfd;
 	font-weight:400
 }
 .team-area-two .single-team h4{
 	padding:0;
 	border-bottom:none;
-	font-family:vazir-fd,sans-serif;
+	font-family:yekan;
 	color:#9a96a1;
 	margin-bottom:17px
 }
@@ -3320,7 +3320,7 @@ img{
 	color:#fff
 }
 .blog-details .article-content p{
-	color:#dedede
+	color:#6f6f6f
 }
 .blog-details .article-content .category{
 	padding:0;
@@ -3333,14 +3333,14 @@ img{
 }
 .blog-details .article-content .category li span{
 	font-weight:600;
-	color:#fff
+	color:#585555
 }
 .blog-details .article-content .category li a{
-	border:1px solid #15b053;
+	border:1px solid #1528b0;
 	border-radius:5px;
 	padding:4px 15px;
 	font-size:13px;
-	color:#fff;
+	color:#666565;
 	position:relative;
 	z-index:1
 }
@@ -3352,7 +3352,7 @@ img{
 	top:0;
 	width:100%;
 	height:100%;
-	background-color:#15b053;
+	background-color:#3415b0;
 	z-index:-1;
 	border-radius:5px;
 	opacity:0;
@@ -3430,7 +3430,7 @@ blockquote cite::before{
 	border:1px solid #313131;
 	padding:9px 20px;
 	border-radius:5px;
-	color:#fff;
+	color:#3f3f3f;
 	position:relative;
 	z-index:1;
 	font-weight:600
@@ -3443,7 +3443,7 @@ blockquote cite::before{
 	top:0;
 	width:100%;
 	height:100%;
-	background-color:#15b053;
+	background-color:#1537b0;
 	z-index:-1;
 	border-radius:5px;
 	opacity:0;
@@ -3452,7 +3452,7 @@ blockquote cite::before{
 	transition:.5s
 }
 .post-controls-buttons div a:hover{
-	border-color:#15b053;
+	border-color:#1e15b0;
 	color:#fff
 }
 .post-controls-buttons div a:hover::before{
@@ -3460,7 +3460,7 @@ blockquote cite::before{
 	visibility:visible
 }
 .post-controls-buttons div a:focus{
-	border-color:#15b053;
+	border-color:#1e15b0;
 	color:#fff
 }
 .post-controls-buttons div a:focus::before{
@@ -3742,7 +3742,7 @@ blockquote cite::before{
 	padding-bottom:10px;
 	margin-bottom:20px;
 	text-transform:capitalize;
-	color:#fff
+	color:#000;
 }
 .widget-area .widget ul{
 	padding:0;
@@ -3752,7 +3752,7 @@ blockquote cite::before{
 .widget-area .widget ul li{
 	position:relative;
 	margin-bottom:12px;
-	color:#15b053;
+	color:#0f2ebb;
 	padding-left:17px;
 	font-size:14px;
 	line-height:1.8
@@ -3761,7 +3761,7 @@ blockquote cite::before{
 	margin-bottom:0
 }
 .widget-area .widget ul li::before{
-	background-color:#15b053;
+	background-color:#2615b0;
 	height:7px;
 	width:7px;
 	content:'';
@@ -3770,10 +3770,10 @@ blockquote cite::before{
 	position:absolute
 }
 .widget-area .widget ul li a{
-	color:#dedede
+	color:#898989
 }
 .widget-area .widget ul li a:hover{
-	color:#15b053
+	color:#1615b0
 }
 .widget-area .widget ul li a:focus{
 	color:#15b053
@@ -3804,7 +3804,7 @@ blockquote cite::before{
 	cursor:pointer;
 	top:0;
 	right:0;
-	background:#15b053;
+	background:#1fa2a2;
 	outline:0;
 	border:none;
 	color:#fff;
@@ -3858,7 +3858,7 @@ blockquote cite::before{
 	position:relative;
 	z-index:1;
 	padding:7px 10px;
-	color:#fff;
+	color:#646464;
 	border:1px solid #313131;
 	margin-top:8px;
 	margin-right:4px
@@ -3873,7 +3873,7 @@ blockquote cite::before{
 	opacity:0;
 	visibility:hidden;
 	z-index:-1;
-	background-color:#15b053;
+	background-color:#2d15b0;
 	-webkit-transition:.5s;
 	transition:.5s
 }
@@ -3908,7 +3908,7 @@ blockquote cite::before{
 	left:0;
 	width:100%;
 	height:100%;
-	background-color:#000;
+	background-color:#000b33;
 	opacity:.9;
 	z-index:-1
 }
@@ -3966,7 +3966,7 @@ blockquote cite::before{
 	-webkit-transition:.5s;
 	transition:.5s;
 	border-radius:4px;
-	color:#fff;
+	color:#626262;
 	font-size:13px
 }
 .widget_search form .search-submit{
